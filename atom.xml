@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Neil&#39;blog</title>
   
-  <subtitle>Nothing but rubbish.</subtitle>
+  <subtitle>Nothing But Rubbish.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
