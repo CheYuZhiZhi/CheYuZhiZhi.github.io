@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-18T04:03:11.237Z</updated>
+  <updated>2018-08-18T04:09:07.878Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2018/08/18/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2018/08/18/关于博客/</id>
     <published>2018-08-18T03:49:49.511Z</published>
-    <updated>2018-08-18T04:03:11.237Z</updated>
+    <updated>2018-08-18T04:09:07.878Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="关于博客"><a href="#关于博客" class="headerlink" title="关于博客"></a>关于博客</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">title: 关于博客</span><br><span class="line">date: 2018-08-18 12:03:23</span><br></pre></td></tr></table></figure><p>博客算是初步建成了，虽然界面、字体、链接和关于部分还有很多改进优化的地方，由于自己对于编程可以说是零基础，再加上电脑对于代码字体显示的问题，这些问题得等自己慢慢来解决了。</p><p>上个学期就买了这个域名，当时还使用阿里云的学生优惠买了一台服务器，想通过 Wordpress 架构来搭建，但当时阿里云不支持 .me 域名的解析，以及还要对网站进行相关备案，后来又有一些其他因素就不了了之啦。</p><p>这次之所以再次动手搭建这个博客，以及采用 Hexo 架构方式，主要有以下几个原因：</p><ul><li>在这个「公众号化」的时代，有自己的一个反流行的 Old School 博客，在我看来是一件很酷的事情。</li><li>自己很喜欢的一些人都有自己的博客，并且都在高质量的更新着。见贤思齐焉，向他们学习嘛。</li><li>我想通过写博客来锻炼自己的写作能力，尤其是写长文的能力，对自己的写作能力一直不是很满意。另外虽然自己平时的阅读量还算可以，但是光有输入没有输出，对自己的提升是很有限的。输出的过程即是对自己思绪的整理，也对自己思考的再次加深，思考力的提高也是我所迫切需要的。</li><li>之所以选择 Hexo 架构，一是因为自己喜欢的很多人都采用的这种方式，二是了解之后， Hexo 相对 WordPress 可自定义化的程度更高，想借此来迈入编程的世界，三是因为可以先不购买服务器，将 Hexo 搭建在 GitHub 中，由于 Github 在国内已经被墙，因此这个博客本身也就具有了筛选属性。</li><li>最重要的是这个博客是不会被任何人打扰的属于我自己的自留地。我可能会将它当做自己情感的一个出口。</li></ul><p>博客目前目标：一周至少更新一次。</p><p>博文暂定题材：摇滚乐、App 对比及推荐、科技与文人相关、情感及生活琐事。</p><p>暂时就到这，下次再见。</p>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">title: 关于博客</span><br><span class="line">date: 2018-08-18 12:07:23</span><br></pre></td></tr></table></figure><p>博客算是初步建成了，虽然界面、字体、链接和关于部分还有很多改进优化的地方，由于自己对于编程可以说是零基础，再加上电脑对于代码字体显示的问题，这些问题得等自己慢慢来解决了。</p><p>上个学期就买了这个域名，当时还使用阿里云的学生优惠买了一台服务器，想通过 Wordpress 架构来搭建，但当时阿里云不支持 .me 域名的解析，以及还要对网站进行相关备案，后来又有一些其他因素就不了了之啦。</p><p>这次之所以再次动手搭建这个博客，以及采用 Hexo 架构方式，主要有以下几个原因：</p><ul><li>在这个「公众号化」的时代，有自己的一个反流行的 Old School 博客，在我看来是一件很酷的事情。</li><li>自己很喜欢的一些人都有自己的博客，并且都在高质量的更新着。见贤思齐焉，向他们学习嘛。</li><li>我想通过写博客来锻炼自己的写作能力，尤其是写长文的能力，对自己的写作能力一直不是很满意。另外虽然自己平时的阅读量还算可以，但是光有输入没有输出，对自己的提升是很有限的。输出的过程即是对自己思绪的整理，也对自己思考的再次加深，思考力的提高也是我所迫切需要的。</li><li>之所以选择 Hexo 架构，一是因为自己喜欢的很多人都采用的这种方式，二是了解之后， Hexo 相对 WordPress 可自定义化的程度更高，想借此来迈入编程的世界，三是因为可以先不购买服务器，将 Hexo 搭建在 GitHub 中，由于 Github 在国内已经被墙，因此这个博客本身也就具有了筛选属性。</li><li>最重要的是这个博客是不会被任何人打扰的属于我自己的自留地。我可能会将它当做自己情感的一个出口。</li></ul><p>博客目前目标：一周至少更新一次。</p><p>博文暂定题材：摇滚乐、App 对比及推荐、科技与文人相关、情感及生活琐事。</p><p>暂时就到这，下次再见。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;关于博客&quot;&gt;&lt;a href=&quot;#关于博客&quot; class=&quot;headerlink&quot; title=&quot;关于博客&quot;&gt;&lt;/a&gt;关于博客&lt;/h1&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pr
+        &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;
       
     
     </summary>
