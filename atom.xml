@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhuhuan.me/"/>
-  <updated>2018-10-03T04:27:13.017Z</updated>
+  <updated>2018-10-05T12:10:35.544Z</updated>
   <id>https://zhuhuan.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>精简时间线</title>
+    <link href="https://zhuhuan.me/2018/10/05/%E7%B2%BE%E7%AE%80%E6%97%B6%E9%97%B4%E7%BA%BF/"/>
+    <id>https://zhuhuan.me/2018/10/05/精简时间线/</id>
+    <published>2018-10-05T12:12:23.000Z</published>
+    <updated>2018-10-05T12:10:35.544Z</updated>
+    
+    <content type="html"><![CDATA[<p>在如今这个知识大爆炸，信息碎片化，各种干货层出不穷的时代，大众对于知识的焦虑与渴望往往会导致他们去不停地关注和订阅那些可能对他们有所帮助的信息源，最后往往会变成永远读不完的内容，永远刷不玩的时间线。而每当看到这些读不完的内容时，会使得他们对于知识的焦虑感更加严重，总怕落在他人后面。这种焦虑会驱使他们继续无节制地关注和订阅下去，最终的结果就是无穷无尽的信息时间线。</p><p>在一开始我也是这样，看到那些感兴趣的或者有帮助的内容，就关注或订阅内容的生产者，最后如上文所说的那样，时间线好像永远也刷不完似的。后来我不得不开始审视自己的信息源，既要保证信息的质量，又要确保数量在自己能够阅读和消化的完的区间内。于是我对信息的来源和订阅数量进行一定的精简，取关掉了那些每天内容量过大、质量和信息即时性不够以及益处不是很大的内容，最终的结果还是挺满意的。</p><p>自己目前的信息来源主要有四个，接下来我将分别来说下。：</p><ol><li><strong>RSS 订阅</strong></li></ol><p><img src="https://res.cloudinary.com/dfubnbxe6/image/upload/v1538731562/RSS.png" alt="RSS Feed"></p><p>RSS 是自己最为重要的信息来源，一度自己的订阅源相当的多，包括「好奇心日报、The Verge、爱范儿」等，这些网站每天更新的内容质量都很不错，但数量也是非常多，基本上每天都是 30+，给了我不小的阅读压力。由于这些网站于自己是非必须的，出于精简时间线，就取关了这些内容源。最终精简后的订阅源为上图所示。并且自己也将喜欢且打开率较高的微信公众号和知乎上自己最为关注的人的动态也集成到 RSS 内，于是乎国内的 GFW 微信于我而言纯粹是一款 IM 软件了（其他的服务我一概不用），越来越糟糕的知乎完全也没有打开的必要了。</p><p>自己使用的 RSS 订阅服务是 <a href="https://feedly.com" target="_blank" rel="noopener">Feedly</a> 免费版，因为自己的订阅源并不是特别多，而且不用进行过滤，所以 Feedly 免费版就够用了，并且不像 Inoreader 免费版那样有广告。RSS 阅读器为 Reeder，界面和排版深得我心。内容源中大部分都是直接通过网站的 RSS 地址进行订阅的，微信公众号使用 <a href="https://werss.app/" target="_blank" rel="noopener">WeRss</a> 进行的订阅，知乎则用的是 <a href="https://docs.rsshub.app/" target="_blank" rel="noopener">RSSHub</a> 。</p><ol><li><strong>社交媒体</strong></li></ol><p>新浪微博和推特我分别设置了关注数上限，新浪微博为 240，推特为 170，并且通过墨客和 Tweetbot 内置的关键词过滤进行信息筛选，过滤掉那些自己不喜欢的内容，以保证内容的质量和阅读体验。新浪微博自己的关注数曾经一度到了 300+，为了能够克制地使用微博，自己几乎全取关掉了每天发微博数量 10+ 的博主，其中包括很多自己非常喜欢并且对自己有过不小影响的人，因为他们发的内容和质量对于现在的自己而言已经不是那么满意和必须了。</p><p>自己对新浪微博进行了一轮又一轮的筛选，实在没有可取关的了才到达现在的 240 。建议对于新浪微博和推特一定要设置关注者上限，否则你看到稍微感兴趣的人就会关注，时间线只会越来越臃肿。</p><p>Telegram Channel 自己订阅了十多个，这也是精简后的频道数，内容质量和数量自己都挺满意的。现在订阅的有李如一老师的频道「<a href="https://t.me/yifenshijie" target="_blank" rel="noopener">一分世界</a>」和「<a href="https://t.me/miechakucha" target="_blank" rel="noopener">灭茶苦茶</a>」， Jesse 的频道「<a href="https://t.me/forwardlikehell" target="_blank" rel="noopener">小破不入渠🍋</a>」和 Alex 的频道「<a href="https://t.me/apple4alex" target="_blank" rel="noopener">No idea about channel name</a>」等。</p><ol><li><strong>Newsletter</strong></li></ol><p>Newsletter 之前也订阅了十个左右，后来参考少数派专栏「<a href="https://sspai.com/series/67" target="_blank" rel="noopener">比身边人多懂一点设计</a>」上的推荐，把订阅源精简到了现在的四个，也全都是该专栏上的推荐。我也借花献佛在这里把链接放一下。</p><p><a href="https://www.pentagram.com/" target="_blank" rel="noopener">Pentagram Newsletter 订阅地址</a></p><p><a href="https://ueno.co/newsletter" target="_blank" rel="noopener">ueno Newsletter 订阅地址</a></p><p><a href="https://dinehq.com/" target="_blank" rel="noopener">Dine Newsletter 订阅地址</a></p><p><a href="https://anyway.fm/post/" target="_blank" rel="noopener">安妮薇邮报订阅地址</a></p><ol><li><strong>Price Tag + 端传媒</strong></li></ol><p>Price Tag 是我获取 App 信息的主要来源，端传媒团队的操守和不需经过 TG 审查的条件，保证了其内容的质量和深度。由于这两个都是 App 内固定的展示内容，想看时打开 App就行了，无关乎精简时间线。</p><p><strong>总而言之，杜绝臃肿的时间线，保持时间线的质量与可读完性，做一个知识大爆炸时代的克制赛博生活者。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在如今这个知识大爆炸，信息碎片化，各种干货层出不穷的时代，大众对于知识的焦虑与渴望往往会导致他们去不停地关注和订阅那些可能对他们有所帮助的信息源，最后往往会变成永远读不完的内容，永远刷不玩的时间线。而每当看到这些读不完的内容时，会使得他们对于知识的焦虑感更加严重，总怕落在他
+      
+    
+    </summary>
+    
+    
+      <category term="分享" scheme="https://zhuhuan.me/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="赛博" scheme="https://zhuhuan.me/tags/%E8%B5%9B%E5%8D%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>向橘红色的天空叫喊</title>
@@ -35,9 +60,9 @@
     </summary>
     
     
-      <category term="分享" scheme="https://zhuhuan.me/tags/%E5%88%86%E4%BA%AB/"/>
-    
       <category term="朋克" scheme="https://zhuhuan.me/tags/%E6%9C%8B%E5%85%8B/"/>
+    
+      <category term="分享" scheme="https://zhuhuan.me/tags/%E5%88%86%E4%BA%AB/"/>
     
   </entry>
   
@@ -91,9 +116,9 @@
     </summary>
     
     
-      <category term="App" scheme="https://zhuhuan.me/tags/App/"/>
-    
       <category term="分享" scheme="https://zhuhuan.me/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="App" scheme="https://zhuhuan.me/tags/App/"/>
     
   </entry>
   
