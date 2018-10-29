@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhuhuan.me/"/>
-  <updated>2018-10-15T11:45:25.411Z</updated>
+  <updated>2018-10-22T13:12:17.766Z</updated>
   <id>https://zhuhuan.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zhuhuan.me/2018/10/15/I%20Got%20A%20Bluebird/"/>
     <id>https://zhuhuan.me/2018/10/15/I Got A Bluebird/</id>
     <published>2018-10-15T04:15:26.000Z</published>
-    <updated>2018-10-15T11:45:25.411Z</updated>
+    <updated>2018-10-22T13:12:17.766Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://res.cloudinary.com/dfubnbxe6/image/upload/v1539508341/22.png" alt="Bluebird"></p><p>随着 Twitter API 的缩紧以及 Tweetbot 和 Twitterrific 这两款优秀的 App 在  Twitter iOS 第三方客户端阵营里的常年制霸，Twitter 第三方客户端阵营已经让人越发地感到无趣和没有期待了。但是最近一款名为  Bluebird 的第三方客户端首先是名字引起了我的注意，我很喜欢这个名字。在关注了一段时间后，趁最近降价购入了它。</p><p>深度体验了一段时间后，虽然感觉 App 的完成度还不算很高，偶尔还会有闪退的现象出现，但瑕不掩瑜，其优秀的界面设计以及那些有意思的 Feature 深深地打动了我，接下来我就和大家分享一下 Bluebird 那些打动我的点。</p><p><strong>1. 发推按钮图标可更改，并可变动位置</strong></p><p>App 内置了 4 种不同的发推按钮样式供用户进行选择，个人最为喜欢的是同  App icon 一致的飞鸟图标。App 内还提供了 10 种不同的颜色选择，除发推按钮外 App  内所有的控件都会进行一致的更改。并且发推按钮还可以像 Assistive Touch 一样在整个界面内进行随意地拖动，除 Tab bar  中间位置外，还可以固定放置在左中右各上下方的位置。</p><p><img src="http://pgn11035h.bkt.clouddn.com/%E5%BC%B9%E8%B7%B3.gif" alt="弹跳"></p><p><img src="https://res.cloudinary.com/dfubnbxe6/image/upload/v1539503816/%E6%A0%B7%E5%BC%8F.png" alt="img"></p><p><strong>2. 关注和被关注数下激励话语</strong></p><p>在用户界面关注和被关注数下面，始终有一条具有激励性质的话语，赞美你或者激励你去发推，表达你的声音，并且每次回到个人主界面或者是打开别人的主界面，这条话语都会发生相应的改变。在我看来这是一个非常具有人文关怀的点，个人很是喜欢。在个人多次刷新下，激励话语大约总计  16 条，具体如下：</p><p><img src="https://res.cloudinary.com/dfubnbxe6/image/upload/v1539504284/%E4%B8%80%E5%A4%A9%E4%B8%96%E7%95%8C.jpg" alt="img"></p><ul><li>You Rock.</li><li>Tweet tweet.</li><li>It’s a good day.</li><li>You are the best.</li><li>You are a winner.</li><li>Voice your opoin.</li><li>You are awesome.</li><li>So much going on.</li><li>Keep being awesome.</li><li>It’s a great day to tweet.</li><li>Tweet it like you mean it.</li><li>Spread some Knowledge.</li><li>Everyone’s get something to say.</li><li>Spread kindness, everyone needs it.</li><li>Go out there to conquer the timeline.</li><li>One tweet, two tweet, three tweet, more.</li></ul><p>全是鸡汤，可是这种鸡汤也还挺好的不是嘛。</p><p><strong>3. Touch &amp; Pinch</strong></p><p>Bluebird 提供了三种不同的手势交互，除了同其他客户端一样的 3D Touch Peek and Pop 进行详情查看和转发回复外，还有两个名为 Popup 和 Pinch 的手势。</p><p>Popup 是当你在不使用 3D Touch 那样的力长按一条推文，会弹出弹出喜欢、评论和转发的快捷功能，并且与此同时会触发名为 Popup Banner 的一条界面顶端状态栏，可以通过设置选择在界面顶端显示该推文的喜欢和转发数或者该用户的关注与被关注数。</p><p><img src="http://pgn11035h.bkt.clouddn.com/POP.gif" alt="Popup"></p><p>Pinch 是在界面对角线通过两个手指进行捏合，则会触发截屏并发送推文的动作。并且可以设置是否将截图保存至本地，以及 Pinch 时的背景主题。</p><p><img src="http://pgn11035h.bkt.clouddn.com/peek.gif" alt="Peek"></p><p><strong>4. 链接预览</strong></p><p>Bluebird  对于链接的预览做得十分出色，基本上能把所有文章和视频的标题和题图都提取出来。在与 Tweetbot、Twitterrific 以及  Twitter 官方客户端进行对比后，其链接预览仍是做得最为出色的，而 Tweetbot 最为糟糕，根本就没有链接预览能力，发条 URL  链接，Tweetbot 直接原封不动地给你展现出来。以下为 Bluebird、Tweetbot、Twitterrific 以及 Twitter  官方客户端关于链接预览的部分对比：</p><p><img src="https://res.cloudinary.com/dfubnbxe6/image/upload/v1539503816/%E8%83%8C%E6%99%AF.png" alt="img"></p><p><strong>5. 下拉刷新波纹随手指移动变动</strong></p><p>当进行下拉刷新时，会出现一条纵深的波纹，并且纵深的长度和位置会随着你手指的移动而发生相应同方向的变动。</p><p><img src="http://pgn11035h.bkt.clouddn.com/%E5%88%B7%E6%96%B0%203.gif" alt="刷新"></p><p><strong>6. Inline likes and retweets</strong></p><p>开启 Inline Likes and Retweets 后，将会直接在推文左边显示该推文的一个喜欢和转发数量状态。</p><p><img src="https://res.cloudinary.com/dfubnbxe6/image/upload/v1539504076/%E5%AF%B9%E6%AF%94.png" alt="img"></p><hr><p>除了以上这些打动我的点之外，Bluebird  还有相当一些不错的地方，比如提供了 35 个可选择的 App 图标，2 套夜间主题，Haptics Engine  反馈支持，搜索界面卡片化，分组时间线等等。该有的功能基本上也都有，已经具备了可用性，只是 App 内还有一些  Bug，偶尔会闪退什么的，并且目前还不能像 Tweetbot 和 Twitterrific  那样支持反时间顺序浏览。如果开发者下一步能支持反时间顺序浏览并提升了稳定性，我有可能会弃用 Tweetbot 将 Bluebird 作为主力  Twitter 客户端来使用。</p><p>Bluebird 的开发者为 <a href="https://twitter.com/JPEGuin" target="_blank" rel="noopener">JPEGuin</a>，除  Bluebird 外，该开发者旗下还有一款名为 Comsicast 的播客客户端，并且他最近正在忙于一款名为 Mast 的 Reddit  客户端，重要的是这些全都是他的 Side Project，只能在晚上和休息日时才能进行开发。创造欲望挺强的一位开发者，挺好的，希望他能尽快把  Bluebird 的一些 Bug 给修复了，提高 App 的稳定性和可用性吧。</p><p>最后，分享给大家一首 Nick Cave 的名为「<a href="http://music.163.com/song?id=1788016&amp;userid=135355671" target="_blank" rel="noopener">Blue Bird</a>」的歌曲，个人挺喜欢的，题图中的「I Get A Blue Bird, A Blue Bird On My Shoulder. 」这两句话便是来自于该歌曲。不妨听听看 ：）</p>]]></content>
     
@@ -62,9 +62,9 @@
     </summary>
     
     
-      <category term="生活" scheme="https://zhuhuan.me/tags/%E7%94%9F%E6%B4%BB/"/>
-    
       <category term="随笔" scheme="https://zhuhuan.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="生活" scheme="https://zhuhuan.me/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -123,9 +123,9 @@
     <link href="https://zhuhuan.me/2018/09/25/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E/"/>
     <id>https://zhuhuan.me/2018/09/25/天空之城/</id>
     <published>2018-09-25T07:53:26.000Z</published>
-    <updated>2018-09-27T01:59:51.629Z</updated>
+    <updated>2018-10-29T04:31:41.047Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>飞机飞过天空，天空之城</p><p>落雨下的黄昏的我们</p><p>此刻我在异乡的夜里</p><p>感觉着你忽明忽暗</p></blockquote><p>前几天自己终于看了李志的现场，虽然是是音乐节，演出时长短了些，最想听的几首歌也没有演唱，但是自己已经很满足了。演出的曲目几乎每首歌都是全新的编曲，就凭这一点，李志团队确实是值得尊敬。</p><p>自己之前有设想过看李志现场的反应，原以为自己会伤心到撕心裂肺，痛哭流涕，然而现场自己却是非常开心的。而且自己也像之前所不屑、讨厌的那些人一样，全场几乎从第一首歌合唱到了最后一首歌。现场的感染力实在是太强了，很难克制住。只是中间「这个世界会好吗」的时候自己还是湿了眼眶。身旁一块去的朋友也同我一样蹦跳着全场合唱，最后一首「天空之城」的时候，我递给了他一根烟，我们互相点着，我抽着烟合唱着，他则低下去了头，沉默不语，演唱结束后他才深吸了一口烟，我可以感受到他的伤心与难过，但我又何尝不是呢，我也很想念心中的那个她，那个属于我的港岛妹妹啊。</p><p>我是从天空之城这首歌开始真正听起摇滚乐的，虽然之前也有听过许巍、郑钧、Beyond 等人的音乐，但是成为一个真正的摇滚乐乐迷确实是从摇滚乐开始的。虽然有很多人认为李志的音乐属于民谣的范畴，不可否认的是早期他的那些编曲简陋的作品确实是可以划分到民谣，但是那是因为出于资源和能力的限制，李志一直想做的都是摇滚乐，也一直都是。</p><p>我已经忘了具体是怎样听到这首歌的，只记得当时是因为手机出了点问题，从初中开始一直用的 QQ 音乐在我的手机上不运行了，自己当时看到很多人都在推荐网易云音乐，于是就下载使用了，并且一直用到现在。关于网易云音乐我将来可能会写一篇音乐播放器的对比文章。具体自己是怎样在网易云音乐听到这首歌的自己已经记不太清楚了，但可以肯定的是宫崎骏的「天空之城」这部影片是我在听这首歌前没有看过的，有可能是当时自己看到了天空之城这个名字，觉得很喜欢，然后搜索相关歌曲看到了李志的这首歌于是就开始听了。后来自己又把天空之城这部影片给看了，也很喜欢，看了好几遍，特别喜欢希达与巴鲁。后来自己把天空之城当作 QQ 个性签名了很长一段时间。</p><p>自己应该是在十八岁的尾巴或者是十九岁的开始听到的这首歌，那个时候是大一的寒假，自己也刚在寒假偶遇自己高中喜欢的女孩不久，也就是我心中的港岛妹妹。那一段时间狂听天空之城和李志的其他歌曲，看了下我的网易云音乐听歌排行，第一名你离开了南京 348 次，第二名天空之城 268 次，这些数据基本上都是那个时期贡献的，并且还不包括非网络环境下的听歌次数。</p><p>从天空之城开始，我疯狂地迷恋上了李志，网络上关于他的所有文字，视频，音乐，采访能看的我全都看了，同时期我如迷恋李志一样疯狂迷恋上的还有罗老师（罗永浩）。我是一个从来没有偶像的人，在大一下学期一下子就有了两个偶像，并且到现在他俩仍然是我的偶像三分之二，另外一个偶像是李如一。关于我的偶像们以后再详细写吧，他们对我的影响与激励是他人完全不能想象的。通过他们我开拓了自己眼界，提高了自己的审美能力，让我真正的有了自己真正喜欢的兴趣，他们陪我度过了很多不太好过的时光。我爱他们。</p><p>自己今天把网友上传的前几天音乐节天空之城的视频下载了下来，并转码成了 MP3 来听。关于我的港岛妹妹，虽然她不曾真正属于我，我们之间也没有谈过恋爱，一直都是我单方面的那种喜欢，但是我很想念她，遇到那些跟她长得很像的女生时我最想念她。</p><p>罗老师曾经把 Eagles 乐队的 「Tequila Sunrise 」中的一段歌词「It’s been so long, oh, and it’s a hollow feelin‘ when it comes down to dealin’ friends, it never ends.」 翻译成「事情过去好久了，话也没啥可说的了，但有时想起你，还是真他妈的难过啊。」我很喜欢这个翻译，也很喜欢这首歌。</p><blockquote><p>我想回到过去，沉默着欢喜</p><p>天空之城在哭泣，越来越明亮的你</p><p>此刻我在异乡的夜里</p><p>想念着你越来越远</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>飞机飞过天空，天空之城</p><p>落雨下的黄昏的我们</p><p>此刻我在异乡的夜里</p><p>感觉着你忽明忽暗</p></blockquote><p>前几天自己终于看了李志的现场，虽然是是音乐节，演出时长短了些，最想听的几首歌也没有演唱，但是自己已经很满足了。演出的曲目几乎每首歌都是全新的编曲，就凭这一点，李志团队确实是值得尊敬。</p><p>自己之前有设想过看李志现场的反应，原以为自己会伤心到撕心裂肺，痛哭流涕，然而现场自己却是非常开心的。而且自己也像之前所不屑、讨厌的那些人一样，全场几乎从第一首歌合唱到了最后一首歌。现场的感染力实在是太强了，很难克制住。只是中间「这个世界会好吗」的时候自己还是湿了眼眶。身旁一块去的朋友也同我一样蹦跳着全场合唱，最后一首「天空之城」的时候，我递给了他一根烟，我们互相点着，我抽着烟合唱着，他则低下去了头，沉默不语，演唱结束后他才深吸了一口烟，我可以感受到他的伤心与难过，但我又何尝不是呢，我也很想念心中的那个她，那个属于我的港岛妹妹啊。</p><p>我是从天空之城这首歌开始真正听起摇滚乐的，虽然之前也有听过许巍、郑钧、Beyond 等人的音乐，但是成为一个真正的摇滚乐乐迷确实是从听李志的歌开始的。虽然有很多人认为李志的音乐属于民谣的范畴，不可否认的是早期他的那些编曲简陋的作品确实是可以划分到民谣，但是那是因为出于资源和能力的限制，李志一直想做的都是摇滚乐，也一直都是。</p><p>我已经忘了具体是怎样听到这首歌的，只记得当时是因为手机出了点问题，从初中开始一直用的 QQ 音乐在我的手机上不运行了，自己当时看到很多人都在推荐网易云音乐，于是就下载使用了，并且一直用到现在。关于网易云音乐我将来可能会写一篇音乐播放器的对比文章。具体自己是怎样在网易云音乐听到这首歌的自己已经记不太清楚了，但可以肯定的是宫崎骏的「天空之城」这部影片是我在听这首歌前没有看过的，有可能是当时自己看到了天空之城这个名字，觉得很喜欢，然后搜索相关歌曲看到了李志的这首歌于是就开始听了。后来自己又把天空之城这部影片给看了，也很喜欢，看了好几遍，特别喜欢希达与巴鲁。后来自己把天空之城当作 QQ 个性签名了很长一段时间。</p><p>自己应该是在十八岁的尾巴或者是十九岁的开始听到的这首歌，那个时候是大一的寒假，自己也刚在寒假偶遇自己高中喜欢的女孩不久，也就是我心中的港岛妹妹。那一段时间狂听天空之城和李志的其他歌曲，看了下我的网易云音乐听歌排行，第一名你离开了南京 348 次，第二名天空之城 268 次，这些数据基本上都是那个时期贡献的，并且还不包括非网络环境下的听歌次数。</p><p>从天空之城开始，我疯狂地迷恋上了李志，网络上关于他的所有文字，视频，音乐，采访能看的我全都看了，同时期我如迷恋李志一样疯狂迷恋上的还有罗老师（罗永浩）。我是一个从来没有偶像的人，在大一下学期一下子就有了两个偶像，并且到现在他俩仍然是我的偶像三分之二，另外一个偶像是李如一。关于我的偶像们以后再详细写吧，他们对我的影响与激励是他人完全不能想象的。通过他们我开拓了自己眼界，提高了自己的审美能力，让我真正的有了自己真正喜欢的兴趣，他们陪我度过了很多不太好过的时光。我爱他们。</p><p>自己今天把网友上传的前几天音乐节天空之城的视频下载了下来，并转码成了 MP3 来听。关于我的港岛妹妹，虽然她不曾真正属于我，我们之间也没有谈过恋爱，一直都是我单方面的那种喜欢，但是我很想念她，遇到那些跟她长得很像的女生时我最想念她。</p><p>罗老师曾经把 Eagles 乐队的 「Tequila Sunrise 」中的一段歌词「It’s been so long, oh, and it’s a hollow feelin‘ when it comes down to dealin’ friends, it never ends.」 翻译成「事情过去好久了，话也没啥可说的了，但有时想起你，还是真他妈的难过啊。」我很喜欢这个翻译，也很喜欢这首歌。</p><blockquote><p>我想回到过去，沉默着欢喜</p><p>天空之城在哭泣，越来越明亮的你</p><p>此刻我在异乡的夜里</p><p>想念着你越来越远</p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -143,9 +143,9 @@
     </summary>
     
     
-      <category term="随笔" scheme="https://zhuhuan.me/tags/%E9%9A%8F%E7%AC%94/"/>
-    
       <category term="音乐" scheme="https://zhuhuan.me/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+      <category term="随笔" scheme="https://zhuhuan.me/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
