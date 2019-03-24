@@ -198,7 +198,7 @@ a:hover, a:active {
   margin: 0 auto;
 }
 .sidebar .logo-title .title h3 {
-  text-none: uppercase;
+  text-none: none;
   font-size: 2rem;
   font-weight: bold;
   letter-spacing: 2px;
@@ -237,7 +237,7 @@ a:hover, a:active {
   margin: 30px;
 }
 .post .post-title h1 {
-  text-none: uppercase;
+  text-none: none;
   font-size: 28px;
   letter-spacing: 5px;
   line-height: 1.5;
@@ -279,7 +279,7 @@ a:hover, a:active {
   font-size: 22px;
   font-weight: 600;
   letter-spacing: 1px;
-  text-none: uppercase;
+  text-none: none;
   line-height: 1.5;
 }
 .post .post-content h2 {
@@ -287,7 +287,7 @@ a:hover, a:active {
   font-size: 20px;
   font-weight: 600;
   letter-spacing: 1px;
-  text-none: uppercase;
+  text-none: none;
   line-height: 1.5;
 }
 .post .post-content h3 {
@@ -295,14 +295,14 @@ a:hover, a:active {
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 1px;
-  text-none: uppercase;
+  text-none: none;
   line-height: 1.5;
 }
 .post .post-content h4 {
   color: #5F5F5F;
   font-size: 16px;
   letter-spacing: 1px;
-  text-none: uppercase;
+  text-none: none;
   line-height: 1.5;
 }
 .post .post-content pre {
