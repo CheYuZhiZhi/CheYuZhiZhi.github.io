@@ -132,7 +132,7 @@ a:hover, a:active {
   float: left;
   font-size: 14px;
   letter-spacing: 1px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 .page-top .nav li {
   position: relative;
