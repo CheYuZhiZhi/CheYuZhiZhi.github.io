@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhuhuan.me/"/>
-  <updated>2019-04-05T13:28:16.627Z</updated>
+  <updated>2019-04-05T12:50:35.790Z</updated>
   <id>https://zhuhuan.me/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>iOS 和 Android 界面组成元素一览</title>
-    <link href="https://zhuhuan.me/2019/04/05/iOS%20%E5%92%8C%20Android%20%E7%95%8C%E9%9D%A2%E7%BB%84%E6%88%90%E5%85%83%E7%B4%A0%E4%B8%80%E8%A7%88/"/>
-    <id>https://zhuhuan.me/2019/04/05/iOS 和 Android 界面组成元素一览/</id>
-    <published>2019-04-05T07:55:26.000Z</published>
-    <updated>2019-04-05T13:28:16.627Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="iOS-和-Android-界面组成元素一览"><a href="#iOS-和-Android-界面组成元素一览" class="headerlink" title="iOS 和 Android 界面组成元素一览"></a>iOS 和 Android 界面组成元素一览</h1><h2 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h2><h3 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h3><ul><li>Navigation Bars </li><li>Search Bars</li><li>Status Bars</li><li>Tab Bars </li><li>Toolbars</li></ul><h3 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h3><ul><li>App Bars：Top</li><li>App Bars：Bottom</li><li>Bottom navigation</li><li>Navigation drawer<ul><li>Standard drawer</li><li>Modal drawer</li><li>Bottom drawer</li></ul></li><li>Tabs<ul><li>Fixed tabs</li><li>Scrollable tabs</li></ul></li></ul><h2 id="视图"><a href="#视图" class="headerlink" title="视图"></a>视图</h2><h3 id="iOS-1"><a href="#iOS-1" class="headerlink" title="iOS"></a>iOS</h3><ul><li>Action Sheets</li><li>Activity Views</li><li>Alerts</li><li>Collections</li><li>Image Views</li><li>Maps</li><li>Pages</li><li>Popovers</li><li>Scrow Views</li><li>Split Views</li><li>Tables</li><li>Text Views</li><li>Web Views</li></ul><h3 id="Android-1"><a href="#Android-1" class="headerlink" title="Android"></a>Android</h3><ul><li>Sheets: bottom<ul><li>Standard bottom sheet</li><li>Modal bottom sheet</li><li>Expanding bottom sheet</li></ul></li><li>Menus<ul><li>Dropdown menu</li><li>Exposed dropdown menu</li></ul></li><li>Banners</li><li>Backdrop</li><li>Cards</li><li><p>Dividers</p></li><li><p>Image lists</p></li><li>lists</li><li>Data Tables</li><li>Dialogs<ul><li>Alert dialog</li><li>Simple dialog</li><li>Confirmation dialog</li><li>Full-screen dialog</li></ul></li><li>Snackbars</li></ul><h2 id="控件"><a href="#控件" class="headerlink" title="控件"></a>控件</h2><h3 id="iOS-2"><a href="#iOS-2" class="headerlink" title="iOS"></a>iOS</h3><ul><li>Buttons</li><li>Edit Menus</li><li>Labels</li><li>Page Controls / Page Indicators</li><li>Progess Indicators</li><li>Refresh Content Controls</li><li>Segmented Controls</li><li>Sliders</li><li>Steppers</li><li>Switches</li><li>Text Field</li></ul><h3 id="Android-2"><a href="#Android-2" class="headerlink" title="Android"></a>Android</h3><ul><li>Buttons<ul><li>Text button</li><li>Outlined button</li><li>Contained button</li><li>Toggle button</li></ul></li><li>Buttons: floating action button</li><li>Chips<ul><li>Input chips</li><li>Choice chips</li><li>Filter chips</li><li>Action chips</li></ul></li><li>Progress indicators<ul><li>Linear progress indicators</li><li>Circular progress indicators</li></ul></li><li>Selection controls<ul><li>Checkboxes</li><li>Radio buttons</li><li>Switches</li></ul></li><li>Sliders<ul><li>Continuous slider</li><li>Discrete slider</li></ul></li><li>Text fields<ul><li>Filled text field</li><li>Outlined text field</li></ul></li><li>Tooltips</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;iOS-和-Android-界面组成元素一览&quot;&gt;&lt;a href=&quot;#iOS-和-Android-界面组成元素一览&quot; class=&quot;headerlink&quot; title=&quot;iOS 和 Android 界面组成元素一览&quot;&gt;&lt;/a&gt;iOS 和 Android 界面组成元素
-      
-    
-    </summary>
-    
-    
-      <category term="交互" scheme="https://zhuhuan.me/tags/%E4%BA%A4%E4%BA%92/"/>
-    
-      <category term="设计" scheme="https://zhuhuan.me/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
   
   <entry>
     <title>关于 iPhone SE 2，我的期待</title>
